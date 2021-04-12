@@ -225,4 +225,5 @@
 
 <!-- wp:paragraph -->
 <p><strong> Thank You Again</strong> </p>
-<!-- /wp:paragraph -->
+
+To view this post<a href="https://pcbloggers.com/install-java-jdk-and-intellij-idea-in-windows-without-errors/" >Click here</a>
